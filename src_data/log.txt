@@ -1,0 +1,3 @@
+Statistik der Leitsätze:
+Anzahl der extrahierten Leitsätze: 1798
+Anzahl der nicht extrahierten Leitsätze (Leerzeilen): 26

@@ -11,14 +11,15 @@ Als Quelle werden folgende Datensätze verwendet, aus denen die Daten extrahiert
 
 Die Erstellung erfolgt in drei Schritten:
 
-1. Data Preparation
+1. Datenvorbereitung
 2. Extraktion der Leitsätze
 3. Erstellen der Dokumente
 
+## 1. Datenvorbereitung
+Die Dateien prep_data_feather.R und prep_src_data.py dienen der Datenvorbereitung. In einem ersten Schritt werden die Datensätze CE-BGH und CE-BPatG (im .csv Format) mit prep_data_feather.R in das .feather Format gebracht und dabei die Entscheidungen des X. und Xa. Zivilsenats herausgefiltert (Zielordner ist prep_data). In einem zweiten Schritt werden die .feather Dateien nach Leitsatzentscheidungen gefiltert und als .xls Dateien gespeichtert (df_zs10_ls.xlsx, df_zs10a_ls.xlsx und df_bpatg_ls.xlsx).
 
-## 1. Data Preparation
-in progress
 ## 2. Extraktion der Leitsätze
-in progress
+Die Datei extract_ls_to_xls.py extrahiert die Leitsätze aus der Spalte "text" und erstellt dabei eine neue Spalte "leitsatz". Als Ergebnis wird eine Datei ls_all.xlsx im Ordner src_data erstellt.
+
 ## 3. Erstellen der Dokumente
-in progress
+Die Datei xls_to_documents.py wandelt die Tabelle ls_all.xlsx in Dokumente um (sammlung_bgh_bpatg.docx, sammlung_bgh_bpatg.txt und sammlung_bgh_bpatg.md)

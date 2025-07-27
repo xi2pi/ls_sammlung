@@ -32,8 +32,8 @@ def create_word_file(dataframe, filename="output.docx"):
     info_paragraph.add_run("Datum: " + date_today + "\n").bold = True
     info_paragraph.add_run("Anzahl der Entscheidungen: " + str(extrahiert) + "\n\n").bold = True
     info_paragraph.add_run("Quellen:\n\n")
-    info_paragraph.add_run("Fobbe, S. (2024). Corpus der Entscheidungen des Bundesgerichtshofs (CE-BGH) (2024-09-25) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.12814022\n\n")
-    info_paragraph.add_run("Fobbe, S. (2024). Corpus der Entscheidungen des Bundespatentgerichts (CE-BPatG) (2024-07-09) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10849977")
+    info_paragraph.add_run("Fobbe, S. (2025). Corpus der Entscheidungen des Bundesgerichtshofs (CE-BGH) (2025-04-07) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15153244\n\n")
+    info_paragraph.add_run("Fobbe, S. (2025). Corpus der Entscheidungen des Bundespatentgerichts (CE-BPatG) (2025-07-08) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15754093")
 
     # Untertitel "Leitsätze"
     document.add_heading("Entscheidungen", level=1)
@@ -56,8 +56,8 @@ def create_txt_file(dataframe, filename="output.txt"):
         file.write(f"Datum: {date_today}\n")
         file.write(f"Anzahl der Entscheidungen: {extrahiert}\n\n")
         file.write("Quellen:\n")
-        file.write("Fobbe, S. (2024). Corpus der Entscheidungen des Bundesgerichtshofs (CE-BGH) (2024-09-25) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.12814022\n")
-        file.write("Fobbe, S. (2024). Corpus der Entscheidungen des Bundespatentgerichts (CE-BPatG) (2024-07-09) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10849977\n\n")
+        file.write("Fobbe, S. (2025). Corpus der Entscheidungen des Bundesgerichtshofs (CE-BGH) (2025-04-07) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15153244\n")
+        file.write("Fobbe, S. (2025). Corpus der Entscheidungen des Bundespatentgerichts (CE-BPatG) (2025-07-08) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15754093\n\n")
         file.write("Entscheidungen:\n\n")
         for _, row in dataframe.iterrows():
             aktenzeichen = row["aktenzeichen"]
@@ -73,8 +73,8 @@ def create_md_file(dataframe, filename="output.md"):
         file.write(f"**Datum**: {date_today}  \n")
         file.write(f"**Anzahl der Entscheidungen**: {extrahiert}  \n\n")
         file.write("## Quellen\n")
-        file.write("Fobbe, S. (2024). Corpus der Entscheidungen des Bundesgerichtshofs (CE-BGH) (2024-09-25) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.12814022  \n")
-        file.write("Fobbe, S. (2024). Corpus der Entscheidungen des Bundespatentgerichts (CE-BPatG) (2024-07-09) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10849977  \n\n")
+        file.write("Fobbe, S. (2025). Corpus der Entscheidungen des Bundesgerichtshofs (CE-BGH) (2025-04-07) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15153244  \n")
+        file.write("Fobbe, S. (2025). Corpus der Entscheidungen des Bundespatentgerichts (CE-BPatG) (2025-07-08) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15754093  \n\n")
         file.write("## Entscheidungen\n\n")
         for _, row in dataframe.iterrows():
             aktenzeichen = row["aktenzeichen"]

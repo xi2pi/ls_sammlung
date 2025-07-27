@@ -1,11 +1,11 @@
 Leitsätze des BGH (X. und Xa. Senat) und des BPatG im Zeitraum 2000 bis 2024
 
-Datum: 2025-01-12
-Anzahl der Entscheidungen: 1798
+Datum: 2025-07-27
+Anzahl der Entscheidungen: 1839
 
 Quellen:
-Fobbe, S. (2024). Corpus der Entscheidungen des Bundesgerichtshofs (CE-BGH) (2024-09-25) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.12814022
-Fobbe, S. (2024). Corpus der Entscheidungen des Bundespatentgerichts (CE-BPatG) (2024-07-09) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10849977
+Fobbe, S. (2025). Corpus der Entscheidungen des Bundesgerichtshofs (CE-BGH) (2025-04-07) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15153244
+Fobbe, S. (2025). Corpus der Entscheidungen des Bundespatentgerichts (CE-BPatG) (2025-07-08) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15754093
 
 Entscheidungen:
 
@@ -9925,6 +9925,253 @@ die Kosten aufzuerlegen, wenn er schon vor Rechtshängigkeit mit der Erhebung na
 Einwendungen oder Einreden rechnen musste, etwa der Berufung auf eine Kürzung nach Art. 7
 Abs. 2 Buchst. c FluggastrechteVO.
 
+X ZR 106/22
+                                                             Scheibenbremse III
+EPÜ Art. 56; PatG § 4
+Die objektiv zweckmäßige Anwendung eines generellen, für eine Vielzahl von
+Anwendungsfällen in Betracht zu ziehenden Mittels ist nicht allein deshalb untunlich, weil dieses Mittel generell bestimmte Nachteile aufweist oder weil im konkreten Zusammenhang auch andere Ausführungsformen in Betracht kommen
+(Bestätigung von BGH, Urteil vom 15. Juni 2021 - X ZR 58/19, GRUR 2021, 1277
+Rn. 53 ff. - Führungsschienenanordnung).
+
+X ZR 39/23
+SEAG § 41 Abs. 5; AktG § 112; BGB § 242 Ca; Verordnung (EG) Nr. 2157/2001
+Art. 43 Abs. 1 und 4
+a) In einer monistisch verfassten europäischen Gesellschaft steht dem Verwaltungsrat nach § 41 Abs. 5 SEAG die alleinige Vertretungsbefugnis auch in Bezug auf Rechtsgeschäfte mit geschäftsführenden Direktoren zu, durch die die
+   Gesellschaft lediglich einen rechtlichen Vorteil im Sinne von § 107 BGB erlangt.
+b) Ist eine Willenserklärung gegenüber der Gesellschaft abzugeben, genügt in
+   den Fällen des § 41 Abs. 5 SEAG die Abgabe gegenüber einem Mitglied des
+   Verwaltungsrats.
+c) Einem geschäftsführenden Direktor, der entgegen § 41 Abs. 5 SEAG im Namen der Gesellschaft einen Vertrag mit sich selbst geschlossen hat, ist es
+   nach den Grundsätzen von Treu und Glauben nicht ohne weiteres versagt,
+   sich zum Nachteil der Gesellschaft auf diese Vorschrift zu berufen.
+
+X ZR 82/23
+                                                                  Slice-Segmente
+EPÜ Art. 52 Abs. 1, Art. 54, Art. 87 Abs. 1; PatG § 1 Abs. 1
+a) Die Priorität einer früheren Anmeldung kann auch dann in Anspruch genommen werden, wenn die spätere Anmeldung ein zusätzliches Ausführungsbeispiel enthält, bei dem zwar einzelne Begriffe des Patentanspruchs in abweichendem Sinne verwendet werden, das aber auch nach dem ursprünglichen
+   Begriffsverständnis unter den Patentanspruch fällt.
+b) Dies gilt auch dann, wenn das zusätzliche Ausführungsbeispiel weitere, nicht
+   im Patentanspruch vorgesehene Funktionen aufweist, die in der früheren Anmeldung nicht offenbart sind.
+
+X ZR 109/23
+FluggastrechteVO Art. 5 Abs. 3
+a) Zu den zumutbaren Maßnahmen im Sinne von Art. 5 Abs. 3 FluggastrechteVO
+   gehört es, dem Fluggast eine mögliche anderweitige direkte oder indirekte Beförderung mit einem Flug anzubieten, den das betroffene oder ein anderes
+   Luftfahrtunternehmen durchführt und der mit weniger Verspätung als der
+   nächste Flug des betreffenden Luftfahrtunternehmens ankommt, es sei denn,
+   die Durchführung einer solchen anderweitigen Beförderung stellt für das betreffende Unternehmen angesichts seiner Kapazitäten zum maßgeblichen
+   Zeitpunkt ein nicht tragbares Opfer dar (Bestätigung von BGH, Urteil vom
+   10. November 2022 - X ZR 97/21, NJW-RR 2023, 202 Rn. 14; Urteil vom
+   10. Oktober 2023 - X ZR 123/22, NJW-RR 2024, 51 = RRa 2024, 23 Rn. 17).
+b) Dies gilt auch dann, wenn noch am gleichen Tag eine Ersatzbeförderung
+   durch das Luftfahrtunternehmen selbst möglich ist.
+
+X ZR 136/23
+FluggastrechteVO Art. 5 Abs. 3
+a) Wenn ein außergewöhnlicher Umstand dazu führt, dass nicht alle vorgesehenen Flüge stattfinden können, ist dem Luftverkehrsunternehmen bei der Beurteilung der zweckmäßigen Maßnahmen ein Spielraum zuzubilligen (Bestätigung von BGH, Urteil vom 21. August 2012
+   - X ZR 138/11, BGHZ 194, 258 = NJW 2013, 374 = RRa 2012, 288 Rn. 33).
+b) Deshalb kann ein ursächlicher Zusammenhang zwischen einem außergewöhnlichen Umstand
+   und der Annullierung eines Fluges auch dann zu bejahen sein, wenn sich das Luftfahrtunternehmen entschließt, einzelne Flüge am Tag des außergewöhnlichen Umstands nicht mehr
+   durchzuführen, um eine Annullierung oder große Ankunftsverspätung am Folgetag zu vermeiden (Ergänzung zu BGH, Urteil vom 12. Juni 2014 - X ZR 121/13, NJW 2014, 3303 = RRa
+   2014, 293 Rn. 32).
+
+X ZR 92/22
+                                                             Planungseinrichtung
+PatG § 117; ZPO §§ 531, 530, 296
+Ein in erster Instanz gestellter Hilfsantrag, über den das Patentgericht nicht entschieden hat, weil es das Streitpatent in einer anderen Fassung für rechtsbeständig erachtet hat, kann in der Berufungsinstanz nicht nach § 117 PatG i.V.m. § 531
+ZPO oder §§ 530, 296 ZPO als verspätet zurückgewiesen werden.
+
+X ZR 145/23
+                                                                               Aufschlussgerät
+PatG § 139 Abs. 2; BGB §§ 195, 197 Abs. 1 Nr. 3, §§ 242 Be, 249 Bb, 259, 852
+a) Ein auf § 242 BGB gestützter akzessorischer Anspruch auf Auskunft und Rechnungslegung
+   verjährt nicht vor dem Hauptanspruch, dessen Durchsetzung er dient (Bestätigung von BGH,
+   Urteil vom 25. Juli 2017 - VI ZR 222/16, NJW 2017, 2755 Rn. 8 ff.; Urteil vom 3. September
+   2020 - III ZR 136/18, NJW 2021, 765 Rn. 55).
+b) Dies gilt auch dann, wenn der Hauptanspruch rechtskräftig festgestellt ist und deshalb gemäß
+   § 197 Abs. 1 Nr. 3 BGB einer Verjährungsfrist von dreißig Jahren unterliegt.
+c) Bei zusammengesetzten Vorrichtungen, von denen nur ein Teil patentiert ist, erstreckt sich
+   der Anspruch auf Auskunft und Rechnungslegung zur Durchsetzung des Anspruchs auf Schadensersatz grundsätzlich auch auf die mit der Gesamtvorrichtung erzielten Umsätze und Gewinne (Weiterführung von BGH, Urteil vom 30. Mai 1995 - X ZR 54/93, GRUR 1995, 578, 579
+   - Steuereinrichtung II).
+
+X ZR 77/23
+                                                              Testosteronester
+EPÜ Art. 56; PatG § 4
+Die Anforderungen an eine angemessene Erfolgserwartung lassen sich nicht allgemeingültig formulieren. Sie sind jeweils im Einzelfall unter Berücksichtigung
+des in Rede stehenden Fachgebiets, der Größe des Anreizes für den Fachmann,
+des erforderlichen Aufwands für das Beschreiten und Verfolgen eines bestimmten Ansatzes und der gegebenenfalls in Betracht kommenden Alternativen sowie
+ihrer jeweiligen Vor- und Nachteile zu bestimmen (Bestätigung von BGH, Urteil
+vom 16. April 2019 - X ZR 59/17, GRUR 2019, 1032 Rn. 31 - Fulvestrant; Urteil
+vom 7. Juli 2020 - X ZR 150/18, GRUR 2020, 1178 Rn. 108 - Pemetrexed II; Urteil vom 26. Januar 2021 - X ZR 24/19, GRUR 2021, 696 Rn. 51 - Phytase).
+
+X ZR 79/22
+BGB § 651h Abs. 3; Richtlinie (EU) 2015/2302 Art. 12 Abs. 2
+a) Ein Einreiseverbot für das Zielland ist für die Beurteilung der Frage, ob außergewöhnliche Umstände vorliegen, die die Durchführung der Pauschalreise oder die Beförderung von Personen an den Bestimmungsort erheblich beeinträchtigen, auch dann von
+   Bedeutung, wenn das Verbot befristet ist und das Ende der Frist vor dem geplanten
+   Reisebeginn liegt (Ergänzung zu BGH, Urteil vom 30. August 2022 - X ZR 66/21,
+   NJW 2022, 3707 = RRa 2022, 283 Rn. 47 ff.).
+b) Ein Ausschluss des Entschädigungsanspruchs nach § 651h Abs. 3 BGB kommt auch
+   dann in Betracht, wenn der Reisende bereits mehrere Monate vor Reisebeginn vom
+   Vertrag zurücktritt.
+
+X ZR 120/22
+                                                            Kraftfahrzeugschloss
+EPÜ Art. 56; PatG § 4
+Die Übernahme eines im Stand der Technik offenbarten Betätigungsmechanismus für eine ähnliche Vorrichtung kann auch dann naheliegen, wenn dieser Mechanismus zwar eine weitere, für die ähnliche Vorrichtung nicht benötigte Funktion erfüllt, im Stand der Technik aber ausdrücklich auf die beiden unterschiedlichen Funktionen hingewiesen wird und diese ohne weiteres voneinander getrennt werden können.
+
+X ZR 10/24
+FluggastrechteVO Art. 10 Abs. 2
+a) Art. 10 Abs. 2 FluggastrechteVO findet bei einer aus mehreren Flügen bestehenden Beförderung nur auf diejenigen Flüge Anwendung, auf denen der
+   Fluggast in eine niedrigere Klasse verlegt worden ist, nicht hingegen auf
+   andere Flüge, zu denen der Flugschein den Fluggast ebenfalls berechtigt
+   (Anschluss an EuGH, Urteil vom 22. Juni 2016 - C-255/15, NJW 2016, 2635
+   = RRa 2016, 180 Rn. 22-27 - Mennens).
+b) Schuldner eines Anspruchs aus Art. 10 Abs. 2 FluggastrechteVO ist nur dasjenige Luftfahrtunternehmen, das den von der Herabstufung betroffenen Flug
+   durchführt.
+
+X ZR 125/22
+                                                             LP-Filterparameter-Umwandlung
+EPÜ Art. 56; PatG § 4
+a) Bei der Suche nach Lösungen für ein bestimmtes technisches Problem im Bereich des Mobilfunks besteht grundsätzlich Anlass, Vorschläge aus dem Umfeld von Standardisierungsgruppen als Ausgangspunkt für weitergehende Überlegungen oder als Quelle zum Auffinden möglicher Lösungsansätze in Betracht zu ziehen. Dies gilt jedenfalls für solche Dokumente, die
+   auf den in der Fachwelt bekannten Wegen der Öffentlichkeit zugänglich gemacht worden sind.
+b) Ein großer zeitlicher Abstand kann im Einzelfall gegen die Kombination von zwei Dokumenten
+   sprechen, insbesondere dann, wenn sie auf unterschiedlichen technischen Ansätzen beruhen.
+   Auch bei der Entwicklung neuer Standards liegt die Heranziehung älterer Dokumente jedoch
+   nahe, wenn diese einen Lösungsansatz enthalten, der erkennbar auch im Umfeld der neueren
+   Veröffentlichung eingesetzt werden kann.
+c) Der Umstand, dass eine bestimmte Vorgehensweise zum Fachwissen gehört, legt deren Anwendung im Kontext einer im Stand der Technik aufgeworfenen neuen Fragestellung nicht
+   ohne weiteres nahe.
+
+X ZR 37/22
+                                              Chemische Verbrauchsmaterialien
+ArbNErfG § 23
+a) Auf die Unwirksamkeit einer Vereinbarung gemäß § 23 Abs. 1 ArbNErfG darf
+   sich gegebenenfalls auch der Arbeitgeber berufen.
+b) Aus Rechtsgründen ist es nicht zu beanstanden, dass ein objektives Missverhältnis in Anlehnung an die Entscheidungspraxis der Schiedsstelle grundsätzlich bejaht wird, wenn die vorgesehene Vergütung bei Berücksichtigung aller
+   für sie maßgeblichen Faktoren das Doppelte des auf der Grundlage der Richtlinien berechneten Betrages überschreitet.
+c) Bei einer Überschreitung des auf diese Weise als angemessen ermittelten Betrages dürfen die Umstände, unter denen die Festlegung zustande gekommen
+   ist, und die Zeitdauer, während der die getroffene Regelung praktiziert worden
+   ist, nicht außer Acht bleiben.
+
+X ZR 124/22
+                                                                                     Bremsanlage
+ZPO § 1040 Abs. 1
+Das Schiedsgericht kann über die eigene Zuständigkeit und im Zusammenhang hiermit über das
+Bestehen oder die Gültigkeit der Schiedsvereinbarung auch insoweit entscheiden, als seine Befugnis zur Beurteilung des Bestands eines Patents in Rede steht.
+PatG § 83 Abs. 1, § 117; ZPO § 531 Abs. 2
+Verteidigt der Beklagte erst nach der Zustellung des qualifizierten Hinweises das Streitpatent
+hilfsweise in einer geänderten Fassung, die technische Aspekte betrifft, die in den bisher gestellten Hilfsanträgen nicht berührt waren, kann es nicht ohne Weiteres als nachlässig angesehen
+werden, wenn der Kläger Entgegenhaltungen hierzu noch nicht in der ersten Instanz vorlegt.
+
+X ZR 114/22
+                                                                   Servicemodul
+EPÜ Art. 69 Abs. 1; PatG § 14
+a) In einem Vorrichtungsanspruch enthaltene Zweck-, Wirkungs- oder Funktionsangaben bestimmen und begrenzen den geschützten Gegenstand nur insoweit, als das Vorrichtungselement, auf das sie sich beziehen, räumlich-körperlich so ausgebildet sein muss, dass es die betreffende Funktion erfüllen kann
+   (Bestätigung von BGH, Urteil vom 7. Juni 2006 - X ZR 105/04, GRUR 2006,
+   923 Rn. 15 - Luftabscheider für Milchsammelanlage).
+b) Weist eine Vorrichtung die erforderliche Eignung auf, ist unerheblich, ob die
+   patentgemäßen Eigenschaften und Wirkungen regelmäßig, nur in Ausnahmefällen oder nur zufällig erreicht werden und ob es der Benutzer darauf absieht,
+   diese Wirkungen zu erzielen (Bestätigung von BGH, Urteil vom 13. Dezember
+   2005 - X ZR 14/02, GRUR 2006, 399 Rn. 21 - Rangierkatze).
+ECLI:DE:BGH:2024:261124UXZR114.22.0
+                                      -2-
+EPÜ Art. 54 Abs. 2; PatG § 3 Abs. 1
+a) Eine Vorbenutzung offenbart den Gegenstand eines Patents schon dann,
+   wenn die nicht nur theoretische und nicht nur entfernt liegende Möglichkeit
+   eröffnet ist, dass beliebige Dritte und damit auch Fachkundige zuverlässige
+   und ausreichende Kenntnis von der Erfindung erlangen (Bestätigung von
+
+X ZR 47/23
+ZPO § 545 Abs. 2; AEUV Art. 267 Abs. 3
+Das Revisionsgericht hat die örtliche Zuständigkeit des erstinstanzlichen Gerichts zu überprüfen,
+wenn diese von der Auslegung einer klärungsbedürftigen Frage des Unionsrechts abhängt und
+das Berufungsgericht eine eigene Pflicht zur Einholung einer Vorabentscheidung durch den Gerichtshof der Europäischen Union deshalb verneint hat, weil es die Revision zugelassen hat (Ergänzung zu BGH, Urteil vom 28. November 2002 - III ZR 102/02, BGHZ 153, 82 = NJW 2003,
+426).
+Brüssel Ia-VO Art. 18 Abs. 1 Fall 2
+Die internationale und örtliche Zuständigkeit nach Art. 18 Abs. 1 Fall 2 Brüssel Ia ist gegeben,
+wenn ein Verbraucher einen Reiseveranstalter nach Abschluss eines Pauschalreisevertrags vor
+dem Gericht des Mitgliedstaats verklagt, in dessen Bezirk er seinen Wohnsitz hat, und die Vertragspartner beide in dem betreffenden Mitgliedstaat ansässig sind, das Reiseziel aber im Ausland liegt (Anschluss an EuGH, Urteil vom 29. Juli 2024 - C-774/22, NJW 2024, 2823 Rn. 29 ff.
+- FTI).
+
+X ZR 131/22
+                                                                  Cer-Zirkonium-Mischoxid III
+IntPatÜbkG Art. II § 6 Abs. 1 Satz 1 Nr. 2
+a) Ein nur in einer Richtung begrenzter Wertebereich kann ausführbar offenbart sein, wenn sich
+   die Erfindung nicht in der Eröffnung eines bestimmten Bereichs erschöpft, sondern eine darüber hinausgehende, verallgemeinerbare Lehre aufzeigt, die es dem Fachmann erstmals ermöglicht, nach weiteren Verbesserungsmöglichkeiten zu suchen und den im Patent konkret
+   aufgezeigten Höchstwert zu übertreffen (Bestätigung von BGH, Urteile vom 12. März 2019
+   - X ZR 32/17, GRUR 2019, 713 Rn. 45 - Cer-Zirkonium-Mischoxid I; X ZR 34/17, GRUR 2019,
+   718 Rn. 26 - Cer-Zirkonium-Mischoxid II).
+b) Fehlt es an einer verallgemeinerbaren Lehre in diesem Sinne, ist ein nach oben begrenzter
+   Bereich nur dann ausführbar offenbart, wenn das Patent mindestens ein konkretes Ausführungsbeispiel schildert, das den beanspruchten Höchstwert erreicht, oder konkrete Hinweise
+   gibt, wie ausgehend von den geschilderten Beispielen eine weitere Steigerung zu erreichen
+   ist (Bestätigung von BGH, Urteil vom 6. April 2021 - X ZR 54/19, GRUR 2021, 1043 Rn. 59
+   - Cerdioxid).
+c) Diese Grundsätze gelten entsprechend für eine beanspruchte Untergrenze, wenn es nicht
+   ohne weiteres möglich ist, einen niedrigen Wert zu erzielen.
+
+X ZR 1/23
+                                                               Kabelwickelband
+PatG § 117; ZPO § 531 Abs. 2 Satz 1 Nr. 3
+a) Hat das Patentgericht in dem gemäß § 83 Abs. 1 PatG erteilten Hinweis dargelegt, dass sich das bisherige Klagevorbringen als unzureichend erweisen
+   könnte, liegt es am Kläger, bereits in erster Instanz gegebenenfalls neue Angriffsmittel vorzutragen. Der Umstand, dass das Patentgericht auch diese Angriffsmittel als nicht ausreichend ansieht, reicht nicht aus, um die Zulassung
+   weiterer Angriffsmittel im Berufungsrechtszug zu rechtfertigen (Bestätigung
+   von BGH, Urteil vom 8. August 2013 - X ZR 36/12, GRUR 2013, 1174 Rn. 33
+   - Mischerbefestigung).
+b) Dies gilt auch hinsichtlich solcher Dokumente, die von bei der Patentrecherche gebräuchlichen Datenbanken nicht umfasst sind.
+
+X ZR 43/22
+BGB § 651h, § 326; Richtlinie (EU) 2015/2302 Art. 12 Abs. 2
+§ 651h BGB lässt für eine ergänzende Anwendung von § 326 BGB keinen Raum.
+
+X ZR 55/22
+BGB § 651h Abs. 3; Richtlinie (EU) 2015/2302 Art. 12 Abs. 2
+Der Ausschluss des Entschädigungsanspruchs nach § 651h Abs. 3 Satz 1 BGB
+hängt nicht davon ab, auf welche Gründe der Reisende den Rücktritt gestützt hat.
+Maßgeblich ist allein, ob im Zeitpunkt des Rücktritts tatsächlich unvermeidbare,
+außergewöhnliche Umstände vorliegen, die die Durchführung der Reise oder die
+Beförderung von Personen an den Bestimmungsort erheblich beeinträchtigen
+(Bestätigung von BGH, Beschluss vom 2. August 2022 - X ZR 53/21, MDR 2022,
+1334 = RRa 2022, 278 Rn. 43).
+
+X ZR 137/22
+                                              Feuchtigkeits- und Ascheanalyse
+EPÜ Art. 56; PatG § 4
+Aus dem Hinweis, eine im Stand der Technik offenbarte Vorrichtung könne mit
+einer bestimmten Art von Geräten kombiniert werden, ergibt sich nicht ohne weiteres die Anregung, die Vorrichtung mit jedem Gerät dieser Art zu kombinieren.
+
+X ARZ 546/24
+GVG § 17a Abs. 2 Satz 3
+Eine Durchbrechung der Bindungswirkung eines nach § 17a Abs. 1 GVG ergangenen Verweisungsbeschlusses kommt allenfalls bei extremen Verstößen gegen
+die den Rechtsweg und seine Bestimmung regelnden materiell- und verfahrensrechtlichen Vorschriften in Betracht (Bestätigung von BGH, Beschluss vom
+24. Oktober 2017 - X ARZ 326/17, NJW-RR 2018, 250 Rn. 19; Beschluss vom
+16. April 2024 - X ARZ 101/24, NJW-RR 2024, 994 Rn. 27).
+
+X ZR 68/24
+BGB § 651h Abs. 4 Satz 1 Nr. 2
+a)   Umstände, die in die Risikosphäre einer Vertragspartei fallen, sind grundsätzlich keine unvermeidbaren, außergewöhnlichen Umstände im Sinne von § 651h Abs. 4 Satz 1 Nr. 2 BGB.
+b)   Ein der Risikosphäre des Reisenden zuzurechnender Grund liegt grundsätzlich vor, wenn der Reisende zur Teilnahme an der Reise nicht in der Lage ist, weil seine Gesundheit ihm dies nicht erlaubt (Bestätigung von BGH, Urteil
+     vom 16. Mai 2017 - X ZR 142/15, NJW 2017, 2677 Rn. 15). Dasselbe gilt, wenn ein begründeter Verdacht auf eine
+     Covid-19-Infektion einer Teilnahme an der Reise entgegensteht.
+BGB § 651h Abs. 2 Satz 2
+c)   Wenn der Reiseveranstalter die Reiseleistung aus Gründen verweigert, die einer Teilnahme an der Reise entgegenstehen und die allein in der Person des Reisenden liegen, steht ihm in entsprechender Anwendung von § 651h
+     Abs. 1 Satz 3 BGB ein Entschädigungsanspruch zu.
+BGB §§ 651h ff., § 645, § 648a, § 314
+d)   Die Regeln über die reiserechtliche Gewährleistung haben Vorrang vor den Regelungen des allgemeinen Leistungsstörungsrechts (Bestätigung von BGH, Urteil vom 14. Februar 2023 - X ZR 18/22, RRa 2023, 116 = NJW-RR
+     2023, 755 Rn. 30).
+e)   Deshalb kommt eine entsprechende Anwendung von § 645, § 648a oder § 314 BGB auf einen Reisevertrag im
+     Falle von Leistungshindernissen nicht in Betracht.
+
+X ZR 114/22
+                                                          Nichtigkeitsstreitwert VI
+GKG § 51 Abs. 1
+a) Die Höhe eines Schadensersatzanspruchs, den der Berechtigte wegen Verletzung eines Patents gerichtlich geltend macht, ist für den Streitwert einer gegen
+   dieses Patent gerichteten Nichtigkeitsklage auch dann von Bedeutung, wenn
+   die bezifferte Zahlungsklage später als die Nichtigkeitsklage erhoben worden
+   ist (Bestätigung von Beschluss vom 14. Dezember 2021 - X ZR 26/20, GRUR
+   2022, 432 Rn. 11 ff. - Nichtigkeitsstreitwert IV).
+b) Für die Bemessung des Streitwerts ist unerheblich, welche Erfolgsaussicht der
+   Schadensersatzklage zukommt.
+
 Xa ZB 24/07
                                              Niederlegung der Inlandsvertretung
 PatG § 25 Abs. 4
@@ -10901,6 +11148,33 @@ Normen:                          GebrMG § 8 Abs. 1 und Abs. 3; PatG § 49 Abs. 
        wenn der Gebrauchsmusterinhaber nachträglich der Eintragung
        widerspricht.
 
+35 W (pat) 423/18
+Normen:                               Richtlinie 2004/48/EG Art. 3 Abs. 1, Art. 14; PatG §
+                                      97 Abs. 2; GebrMG § 18 Abs. 2 Satz 2; EuPAG §§ 1,
+                                      12, 13, 15 Abs. 4; VV RVG Nr. 7002
+Entscheidungsname: Bediengerät für Spiele
+1. Die Kosten einer Mitwirkung eines beim Europäischen Patentamt zugelassenen
+Vertreters in einem Beschwerdeverfahren vor dem Bundespatentgericht sind - im
+Gegensatz zum Tätigwerden eines europäischen Patentanwalts, der im Melderegister der
+Patentanwaltskammer nach § 15 Abs. 4 EuPAG eingetragen ist, - nicht erstattungsfähig
+(in Abgrenzung zu BGH, Beschluss vom 14. April 2020 - X ZB 2/18, GRUR 2020, 781 -
+EPA-Vertreter).
+2. Die Grundsätze der höchstrichterlichen Rechtsprechung des Bundesgerichtshofs, die
+dieser   zur   Erstattungsfähigkeit   von     Doppelvertretungskosten    im    patentrechtlichen
+Nichtigkeitsverfahren entwickelt hat, gelten auch im Gebrauchsmusterlöschungsverfahren
+und in einem entsprechenden Löschungsbeschwerdeverfahren. Einer Erstattung von
+Doppelvertretungskosten       steht        nicht   im    Weg,    dass         ggf.    nur    ein
+Verfahrensbevollmächtigter, der über eine Doppelqualifikation sowohl als Patent- als auch
+als Rechtsanwalt verfügt, mit der Vertretung beauftragt wurde; die Pauschale für Entgelte
+für Post- und Telekommunikationsdienstleistungen nach Nr. 7002 VV RVG wird hierbei
+nur einmal angesetzt (Fortführung von BPatG, Beschluss vom 17. Mai 2017 - 35 W (pat)
+1/14, GRUR 2017, 1169 = BPatGE 56, 28, 34, und BPatG, Beschluss vom 22. Februar
+2023 - 35 W (pat) 10/21, GRUR 2023, 910 - Step-Gymnastik I). Die vorgenannte
+Erstattungsfähigkeit von Doppelvertretungskosten führt auch nicht dazu, dass das
+gebrauchsmusterrechtliche       Löschungsverfahren         und     das         patentgerichtliche
+Beschwerdeverfahren in Gebrauchsmustersachen insoweit i. S. d. Richtlinie 2004/48/EG
+unnötig kostspielige Rechtsbehelfe darstellen.
+
 10 W (pat) 13/05
 Normen:                            PatKostG § 3 Abs. 2, § 7 Abs. 1 ZPO § 240
 Sägeblatt
@@ -11295,6 +11569,30 @@ Patentanmeldungen ergibt sich auch nicht aus Art. 66 EPÜ, wonach eine europäis
 Patentanmeldung, der ein Anmeldetag zuerkannt worden ist, in den benannten
 Vertragsstaaten die Wirkung einer vorschriftsmäßigen nationalen Hinterlegung hat.
 
+7 Ni 13/22
+Normen:                             Art. II § 6 Abs. 1 IntPatÜG, Art. 138 Abs. 1 Buchst.
+                                    a, Art. 54, 56 EPÜ,
+                                    § 138 Abs. 4 ZPO
+Entscheidung „Verfahren zur Herstellung zylindrischer Bauteile“
+Parallelentscheidung: 7 Ni 14/22
+Leitsatz:
+Im Rahmen einer Vorbenutzung ermöglicht § 138 Abs. 4 ZPO einer Partei, sich zu Tatsachen, die weder eigene Handlungen der Partei noch Gegenstand ihrer eigenen Wahrnehmung gewesen sind, mit Nichtwissen zu erklären. Den eigenen Handlungen oder Wahrnehmungen im Sinne des § 138 Abs. 4 ZPO sind Vorgänge im eigenen Geschäfts- und Verantwortungsbereich einer juristischen Person gleichgestellt. Eine Erklärung mit Nichtwissen ist
+erst zulässig, wenn die Partei ihrer bestehenden Pflicht zur Informationsbeschaffung nachgekommen ist (vgl. BGH MMR 2019, 617 Rn. 19). Die Informationspflicht besteht dabei auch
+bei ehemaligen Mitarbeitern (vgl. BGH GRUR 2002, 190 - DIE PROFIS). Der Hinweis einer
+Partei, der entsprechende Mitarbeiter habe mittlerweile den Konzern verlassen, genügt diesen Anforderungen nicht. Die Partei muss auch vortragen, dass der Versuch einer Kontaktaufnahme mit dem ehemaligen Mitarbeiter erfolgt ist, beziehungsweise dass ein solcher Versuch gescheitert ist oder nach entsprechenden Unterlagen gesucht worden ist.
+
+7 Ni 14/22
+Normen:                             Art. II § 6 Abs. 1 IntPatÜG, Art. 138 Abs. 1 Buchst.
+                                    a, Art. 54, 56 EPÜ,
+                                    § 138 Abs. 4 ZPO
+Entscheidung „Verfahren zur Herstellung zylindrischer Bauteile“
+Parallelentscheidung: 7 Ni 13/22 (EP)
+Leitsatz:
+Im Rahmen einer Vorbenutzung ermöglicht § 138 Abs. 4 ZPO einer Partei, sich zu Tatsachen, die weder eigene Handlungen der Partei noch Gegenstand ihrer eigenen Wahrnehmung gewesen sind, mit Nichtwissen zu erklären. Den eigenen Handlungen oder Wahrnehmungen im Sinne des § 138 Abs. 4 ZPO sind Vorgänge im eigenen Geschäfts- und Verantwortungsbereich einer juristischen Person gleichgestellt. Eine Erklärung mit Nichtwissen ist
+erst zulässig, wenn die Partei ihrer bestehenden Pflicht zur Informationsbeschaffung nachgekommen ist (vgl. BGH MMR 2019, 617 Rn. 19). Die Informationspflicht besteht dabei auch
+bei ehemaligen Mitarbeitern (vgl. BGH GRUR 2002, 190 - DIE PROFIS). Der Hinweis einer
+Partei, der entsprechende Mitarbeiter habe mittlerweile den Konzern verlassen, genügt diesen Anforderungen nicht. Die Partei muss auch vortragen, dass der Versuch einer Kontaktaufnahme mit dem ehemaligen Mitarbeiter erfolgt ist, beziehungsweise dass ein solcher Versuch gescheitert ist oder nach entsprechenden Unterlagen gesucht worden ist.
+
 10 W (pat) 51/04
 Normen:                             § 30 Abs. 3 Satz 2, § 123 PatG
 Triazolverbindungen
@@ -11513,6 +11811,15 @@ Normen:                         PVÜ Art. 8; MarkenG §§ 42 Abs. 2 Nr. 4, 5 Abs
    ein Vertrieb ins Inland aber erst nach Anmeldung der angegriffenen Marke
    aufgenommen worden ist (im Anschluss an BGH GRUR 1984, 472 –
    Gabor/Caber).
+
+30 W (pat) 702/22
+Normen:                        DesinG § 1 Nr. 1 und 2
+                                                                       L(I)EBE!
+1. Eine Zeichenfolge, die mittels einer Binnenklammerung in verkehrsüblicher
+   Weise dazu führt, dass mit dem betreffenden Wort mehrere Bedeutungsgehalte transportiert werden, stellt keine Erscheinungsform eines Erzeugnisses,
+   insbesondere kein grafisches Symbol dar und ist daher nicht designfähig.
+2. Ob die Zeichenfolge markenrechtliche Unterscheidungskraft aufweist, ist für
+   die designrechtliche Beurteilung ohne Bedeutung.
 
 30 W (pat) 804/21
 Normen:                          DesingG § 1 Nr. 1
@@ -16119,6 +16426,57 @@ Goldhase IV
    im Rahmen der Befragung vorgelegte Farbton im Register des Deutschen Patentund Markenamts gegebenenfalls anders wiedergegeben wird, ist nicht relevant, da
    dies mit den dortigen technischen Rahmenbedingungen und nicht mit der Durchführung der demoskopischen Untersuchung zusammenhängt.
 
+29 W (pat) 39/21
+Normen:
+§§ 51, 53 Abs. 1 MarkenG; §§ 13 Abs. 1, Abs. 2 Nr. 3 MarkenG i. V. m. § 97 Abs. 1 UrhG;
+§§ 2 Abs. 1 Nr. 4, Abs. 2, 23 UrhG; § 59 Abs. 1 MarkenG; § 71 Abs. 1 MarkenG; Art. 14 RL
+2004/48/EG (Enforcement- bzw. Durchsetzungsrichtlinie)
+Entscheidung: Engelsflügel
+Leitsatz:
+Zum neuen Nichtigkeitsverfahren aufgrund eines nicht registrierten älteren Rechts
+(Urheberrecht).
+
+29 W (pat) 54/22
+Normen:                            § 8 Abs. 2 Nr. 5 MarkenG; § 31 Abs. 1 BVerfGG; Art.
+                                   21 Abs. 2 bis 4 GG;
+Entscheidung: NPD
+Leitsatz:
+Das Parteienprivileg des Art. 21 Abs. 2 – 4 GG steht der Annahme eines Verstoßes der Markenanmeldung „NPD“ gegen die guten Sitten gem. § 8 Abs. 2 Nr. 5 MarkenG nicht entgegen.
+
+26 W (pat) 31/20
+Normen:                            §§ 8 Abs. 2 Nr. 1, 106a, 106e MarkenG
+1. Eine Gewährleistungsmarke verfügt über Unterscheidungskraft, wenn sie geeignet
+ist, Waren und Dienstleistungen, für die die Gewährleistung besteht, von solchen Waren und Dienstleistungen zu unterscheiden, für die keine derartige Gewährleistung
+durch den Markeninhaber besteht (§ 8 Abs. 2 Nr. 1 MarkenG i.V.m. § 106a Abs. 1 Satz
+2 u. Abs. 2 MarkenG).
+2. Für die Beurteilung der Unterscheidungskraft von Gewährleistungsmarken sind
+grundsätzlich bzw. im Ansatz die zu Individualmarken entwickelten Grundsätze heranzuziehen, allerdings spezifisch auf die Funktion der Gewährleistungsmarke bezogen.
+Dabei sind keine höheren oder niedrigeren Anforderungen an die Unterscheidungskraft
+zu stellen als bei Individualmarken.
+3. a) Allgemeinen Anpreisungen und rein waren- oder dienstleistungsbeschreibenden
+Angaben fehlt im Allgemeinen die gewährleistungsmarkenrechtliche Unterscheidungskraft.
+b) Dies gilt grundsätzlich auch für Angaben, die die gewährleisteten Eigenschaften bezeichnen, vor allem dann, wenn aus der Marke die Gewährleistung für die betreffende
+Eigenschaft nicht hervorgeht.
+4. Der für Individualmarken anerkannte Grundsatz, dass an die grafische Gestaltung
+umso höhere Anforderungen zu stellen sind, je deutlicher der beschreibende Charakter
+der fraglichen Angabe selbst hervortritt (vgl. BGH GRUR 2001, 1153 – antiKALK), gilt
+entsprechend auch bei Gewährleistungsmarken.
+5. Die der Anmeldung nach § 106d MarkenG beizufügende Satzung ist bei der Beurteilung der Unterscheidungskraft einer angemeldeten Gewährleistungsmarke nicht (mit)
+zu berücksichtigen.
+
+29 W (pat) 14/21
+Normen:                            § 50 Abs. 1 MarkenG a. F. i. V. m. § 8 Abs. 2 Nr. 10 a. F. MarkenG;
+                                   § 70 Abs. 3 Nr. 2 MarkenG
+Entscheidung: Testa Rossa
+Leitsatz:
+1. Es liegt keine bösgläubige Markenanmeldung vor, auch nicht unter dem Gesichtspunkt einer neuen Fallgruppe der „funktionswidrigen Anmeldung“.
+2. Zum Verhältnis der bösgläubigen Markenanmeldung und dem Sonderschutz bekannter Marken.
+
+29 W (pat) 37/22
+Normen:                         § 8 Abs. 2 Nr. 1 MarkenG
+Entscheidung:      Unternehmerfreiheit
+„Unternehmerfreiheit“ als „Wort als solches“ im konkreten Dienstleistungszusammenhang
+
 3 Ni 36/04
 Normen:                              Art. 15 Abs. 1 Nr. c EG-V Nr. 1768/92 - Arzneimittel
 Alendronsäure
@@ -17892,6 +18250,92 @@ Zu den Anforderungen an eine unbedingte Bürgschaft i. S. d. § 108 Abs. 1 Satz 
 Normen:                          § 3 Abs.3 und 4 PatG
 Zur Bestimmung der objektiven Aufgabe bei medizinischen Indikationen.
 
+3 Ni 23/22
+Normen:                          Artikel II § 6 Absatz 1 Nr. 1 IntPatÜG, Art. 138
+                                 Abs. 1 Buchst. a) EPÜ, Art. 52, 56 EPÜ
+Entscheidungsname: Codonoptimierung
+3 Ni 23/22 (EP) - Leitsätze
+1. Eine Druckschrift, die die mRNA-Vakzinierung betreffend zweier HIV-Proteine
+offenbart, deren in vivo-Wirksamkeit allerdings nur einen ""moderaten antiviraler
+Effekt"" zuschreibt, veranlasst den Fachmann, die Wirksamkeit von antiviral wirksamen mRNA-Therapeutika zu verbessern und einen hohen antiviralen Effekt für
+mRNA-Vakzine anzustreben.
+2. Dabei wird der Fachmann auch in einem Laborstandardwerk als hinlänglich
+bekannt beschriebene Maßnahmen zur Verbesserung der Translationseffizienz
+einer mRNA (hier Codonoptimierung) heranziehen, wenn die Ausgangsdruckschrift andere Maßnahmen zur mRNA -Stabilisierung und damit zu deren Wirksamkeitsverbesserung aufzeigt, die Stabilisierungsmethoden in dieser Druckschrift jedenfalls nicht abschließend aufgelistet sind.
+3. Ist die Ausgangsdruckschrift sowohl auf DNA- als auch auf RNA-Sequenzen
+zur Gentherapie und Vakzinierung gerichtet, wird der Fachmann nicht deshalb
+mRNA-Vakzine außer Acht lassen, weil ihm zum Prioritätszeitpunkt keine derartigen Vakzine bekannt gewesen sind. Er wird vielmehr die DNA- und RNA-Technologien zusammen betrachten und sich Lösungsansätzen auf beiden Ge-
+bieten zuwenden.
+4. Ein negatives technisches Merkmal (hier als Untergrenze für den G/C-Gehalt
+im codierenden Bereich der modifizierten mRNA) ist als Disclaimer zulässig,
+wenn sich die dadurch bewirkte Beschränkung als technisch nicht relevant erweist (BGH, Urt. v. 25. Juli 2017 – X ZR 5/16, GRUR 2017, 1105 Rn. 20 ff. -
+Phosphatidylcholin).
+
+3 Ni 20/20
+Normen:                            Art. II § 6 Abs. 1 Nr. 2, 3 IntPatÜG, Art. 138
+                                   Abs. 1 lit. b), c) EPÜ, Art. 139 EPÜ, § 64 PatG
+Entscheidungsname:         Quaternäre Zusammensetzungen auf Basis von Zirkonium-,
+                           Cer-, Yttrium- und Lanthanoxiden
+Leitsätze
+1.      Die Voraussetzung, der zufolge ein nach oben offener Bereich nicht ausführbar
+offenbart ist, wenn die Erfindung über die Eröffnung eines bestimmten Bereichs hinaus
+keine verallgemeinerbare Lehre aufzeigt, die es dem Fachmann ermöglicht, bei der
+Suche    nach   weiteren   Verbesserungsmöglichkeiten     den    im   Patent   konkret
+aufgezeigten Höchstwert zu übertreffen (BGH, Urteil vom 6. April 2021 – X ZR 54/19,
+GRUR 2021, 1043 – Cerdioxid; Urteil vom 12. März 2019 – X ZR 32/17, GRUR 2019,
+713 Rn. 45 – Cer-Zirkonium-Mischoxid I; X ZR 34/17, GRUR 2019, 718 Rn. 26 – Cer-Zirkonium-Mischoxid II; Urteil vom 6. August 2019 – X ZR 36/17 Rn. 104, juris), liegt
+auch dann vor, wenn eine Erfindung zwar ein Beispiel für die beanspruchten
+Mindestwerte der von ihr als erfindungswesentlich bezeichneten Merkmale (hier:
+spezifische Oberfläche von mindestens 25 m2/g nach 4-stündigem Kalzinieren bei
+1100°C sowie      Reduktionsfähigkeit   von mindestens    95 %    nach   2-stündigem
+Kalzinieren unter Luftzufuhr bei 600°C oder 700°C oder mindestens 85 % nach 2-
+stündigem Kalzinieren unter Luftzufuhr bei 900°C) zwar ein die Mindestwerte
+(geringfügig) übertreffendes Beispiel (hier: spezifische Oberflächen von bis zu 27
+m2/g bei 1100°C sowie eine Reduktionsfähigkeit von 96 % für die 2-stündige
+Kalzinierung bei 600°C und von 88% für die 2-stündige Kalzinierung bei 900°C) nennt,
+aber keine Angaben dazu enthält, wie der Fachmann über die im beschriebenen
+Beispiel konkret dargelegten Werte hinaus höhere Werte erreichen könnte.
+2. Eine beschränkte Verteidigung des angegriffenen Stoffanspruchs durch Aufnahme
+von Verfahrensmerkmalen aus einem (hier mit der Nichtigkeitsklage nicht angegriffenen)
+Verfahrensanspruch ist mangels wirksamer Beschränkung des Schutzgegenstandes
+i.S.d.   Art. 139   EPÜ   i.V.m.   § 64   PatG   unwirksam,   wenn   die   Aufnahme   der
+Verfahrensmerkmale nicht zu einem gegenüber der geltenden Fassung eingeschränkten
+product-by-process-Anspruch führt.
+Ein product-by-process-Anspruch liegt nach der höchstrichterlichen Rechtsprechung
+dabei nur vor, wenn - was ggf. durch Auslegung zu ermitteln ist - ein Stoffanspruch, der
+grundsätzlich nicht auf die Art seiner Herstellung beschränkt ist, mit denen das Erzeugnis
+gewonnen werden kann, zumindest teilweise nur auf Merkmale des zu seiner Herstellung
+allein notwendigen Verfahrens beschränkt ist (vgl. BGH, Urt. v. 14. Juni 1960 – I ZR
+116/58, GRUR 1960, 483, 484 – Polsterformkörper; Beschl. v. 6. Juli 1971 – X ZB 9/70,
+GRUR 1972, 80, 87 f. – Trioxan; Beschl. v. 15. Mai 1997 – X ZR 8/95, BlPMZ 1997, 398,
+400 – Polyäthylenfilamente; BGH, Urt. v. 19. Juni 2001 – X ZR 159/98, GRUR 2001,
+1129, 1133 – Zipfelfreies Stahlband; BGH, Urt. v. 19. Mai 2005 – X ZR 188/01,
+GRUR 2005, 749, 751 – Aufzeichnungsträger). Auf den Wortlaut des Patentanspruchs
+kommt es dabei nicht an, insbesondere kann weder aus der vermeintlich enger
+erscheinenden Formulierung „erhalten durch …“ noch aus der vermeintlich weiter
+erscheinenden Wortwahl „erhältlich durch …“ auf das Vorliegen oder Nichtvorliegen einer
+Beschränkung des Sachanspruchs auf allein durch das beanspruchte Verfahren
+gewonnene Erzeugnisse gefolgert werden.
+Die Voraussetzungen eines Product-by-process-Anspruchs liegen allerdings nicht vor,
+wenn der beanspruchte Stoff nach den ursprünglich angemeldeten und/oder erteilten
+Patentansprüchen bereits durch körperliche Merkmale hinreichend charakterisiert ist und
+sich auch aus den sonstigen Angaben im Streitpatent die Gewinnung des beanspruchten
+Stoffs allein aus dem angegebenen Verfahren nicht ergibt. Dies gilt erst recht, wenn der
+Patentinhaber selbst betont, dass eine solche Beschränkung des Stoffanspruchs auf die
+Gewinnung durch ein bestimmtes Verfahren nie beabsichtigt war und für ihn
+„selbstverständlich“ unter den Schutz des Stoffanspruchs auch solche Produkte fielen,
+welche die körperlichen Merkmale erfüllten, auch wenn sie nach einem anderen
+Herstellungsverfahren gewonnen worden seien.
+Darauf, ob durch die Aufnahme der Verfahrensmerkmale ggf. der Nichtigkeitsgrund der
+fehlenden Ausführbarkeit der erteilten Fassung beseitigt würde, kommt es dabei nicht
+an, denn die Beseitigung des Nichtigkeitsgrundes der fehlenden Ausführbarkeit stellt
+keine Einschränkung des Schutzgegenstandes dar, so dass sich hieraus keine zulässige
+Beschränkung des unter Schutz zu stellenden Erfindungsgegenstandes ergibt.
+
+1 W (pat) 8/24
+Normen:                         § 39 PatG
+Zur Frage der Wirksamkeitsvoraussetzungen von Teilungserklärungen
+
 36 W (pat) 1/10
 Normen:                             Art. 1 vii, 6 Abs. 1 und 3 UPOV 1991; § 6 Abs. 1 SortG
                                     1997; Art. 92 GemSortVO; Art. 25, 59 Abs. 2 GG
@@ -19495,6 +19939,17 @@ einsprechende Person aus den innerhalb der Einspruchsfrist gemachten Angaben ent
 bloße Unterzeichnung der Einspruchsschrift durch den Anwalt bzw. die Anwältin, der/die
 üblicherweise im Namen Dritter tätig wird, nicht aus.
 
+12 W (pat) 4/21
+Normen:                                  § 79 Abs. 3 Satz 2 PatG;
+                                         § 99 Abs. 1 PatG i.V.m. § 572
+                                         Abs. 3 ZPO
+________________________________________________________________
+Bindungswirkung einer vorangegangenen Entscheidung
+   1. Ist in einem vorangegangenen Einspruchs-Beschwerdeverfahren die Sache
+      wegen einer neuen Anspruchsfassung an das Deutsche Patent- und Markenamt zurückverwiesen worden, ergibt sich bei einem erneuten Beschwerdeverfahren in der gleichen Sache aus § 79 Abs. 3 Satz 2 PatG nur eine Bindungswirkung mit Blick auf die rechtliche Beurteilung, die der vorangegangenen Aufhebung zugrunde lag.
+   2. Ausführungen zur Zulässigkeit und Patentfähigkeit der neuen Anspruchsfassung in den Entscheidungsgründen in der vorangegangenen Entscheidung
+      sind nicht in jedem Fall nach § 99 Abs. 1 PatG i.V.m. § 572 Abs. 3 ZPO bindend. In Zweifelsfällen ist dies durch Auslegung der Ausführungen zu ermitteln.
+
 11 W (pat) 15/20
 Normen:                             PatG § 16, § 37, § 49 Abs. 1, § 58 Abs. 2, Abs. 3
 „Haihaut-Oberflächenprofil“
@@ -19506,4 +19961,37 @@ Leitsätze:
 2.   Eine Patenterteilung ist dagegen - sofern eine patentfähige Erfindung vorliegt - auch noch nach Ablauf der maximal möglichen Patentlaufzeit statthaft. An einer solchen, „nachträglichen“ Patenterteilung besteht auch deshalb stets ein Rechtsschutzinteresse, weil mit
      einem solchen Patent die Anerkennung einer erfinderischen Leistung verbunden ist, worauf der Erfinder kraft seines Erfinderpersönlichkeitsrechts einen Anspruch hat (in Ergänzung zu BGH GRUR
      1967, 477, 481 - UHF-Empfänger II und BPatGE 42, 256, 258 - Benutzerleitende Information).
+
+11 W (pat) 7/23
+Normen:                           PatG § 7 Abs. 2, § 21 Abs. 1 Nr. 3
+Exzenterspannvorrichtung
+Der Widerrufsgrund der widerrechtlichen Entnahme nach § 21 Abs. 1 Nr. 3 PatG setzt
+voraus, dass der wesentliche Inhalt des Patents ursächlich auf die Beschreibung, Zeichnungen, Gerätschaften usw. des anderen beruht. Zählte das Entnommene bereits zum
+Zeitpunkt der unbefugten Anmeldung des Patents objektiv zum Stand der Technik bzw.
+entsprach dieses offensichtlich fachmännischem Handeln, so fehlt es an dieser notwendigen Kausalität.
+
+11 W (pat) 12/24
+Normen:                          PatG § 73, § 123a
+Vorrichtung zum Homogenisieren
+Einem Patentanmelder steht es frei, ob er gegen die Zurückweisung seiner Anmeldung
+mit einem Antrag auf Weiterbehandlung gemäß § 123a PatG oder mit der Beschwerde
+nach § 73 PatG vorgehen möchte. Auch eine Kumulation beider Rechtsbehelfe ist zulässig.
+
+11 W (pat) 34/24
+Normen:                           PatG § 58 Abs. 3, § 79 Abs. 2; PatKostG § 7 Abs. 1
+Entscheidung: Dünnwandige Domsegmente
+Leitsatz:
+Die Zulässigkeit einer Beschwerde im Erteilungsbeschwerdeverfahren hat zur
+Voraussetzung, dass die Patentanmeldung (noch) anhängig ist. Ist die
+Patentanmeldung nach oder bereits vor Beschwerdeeinlegung weggefallen, so
+ist die Beschwerde gemäß § 79 Abs. 2 PatG mangels Beschwer als unzulässig
+zu verwerfen (in Abgrenzung zu BPatG, Beschluss vom 15. April 2024 – 11 (pat)
+15/20 -, BlPMZ 2024, 335 - Haihaut-OberflächenprofiI).
+
+18 W (pat) 55/23
+Normen:                            § 2a Abs. 1 Nr. 2 Satz 1 PatG
+Entscheidung: Verfahren zur Stenoseerkennung
+Ein Verfahren zur automatischen Stenoseerkennung aus Bildern einer medizinischen Bildsequenz ist als Diagnostizierverfahren vom Patentschutz ausgenommen. Dies gilt auch, wenn
+die Durchführung des bildgebenden Verfahrens am menschlichen oder tierischem Körper
+nicht beansprucht wird, da dieser Schritt eine zwingende Voraussetzung für das beanspruchte Verfahren ist.
 

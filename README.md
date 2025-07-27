@@ -1,13 +1,13 @@
-# Erstellen einer Sammlung von Leitsätzen des BGH (X. und Xa. Zivilsenat) und des BPatG im Zeitraum 2000 bis 2024
+# Erstellen einer Sammlung von Leitsätzen des BGH (X. und Xa. Zivilsenat) und des BPatG im Zeitraum 2000 bis 2025
 
-Der Quellcode dient der Erstellung einer Sammlung von Leitsätzen des BGH (X. und Xa. Zivilsenat) und des BPatG im Zeitraum 2000 bis 2024.
+Der Quellcode dient der Erstellung einer Sammlung von Leitsätzen des BGH (X. und Xa. Zivilsenat) und des BPatG im Zeitraum 2000 bis 2025.
 
 Formate: .docx, .txt, .md
 
 Als Quelle werden folgende Datensätze verwendet, aus denen die Daten extrahiert werden:
 
-- Fobbe, S. (2024). Corpus der Entscheidungen des Bundesgerichtshofs (CE-BGH) (2024-09-25) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.12814022 (GitHub: https://github.com/SeanFobbe/ce-bgh)
-- Fobbe, S. (2024). Corpus der Entscheidungen des Bundespatentgerichts (CE-BPatG) (2024-07-09) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10849977 (GitHub: https://github.com/SeanFobbe/ce-bpatg)
+- Fobbe, S. (2025). Corpus der Entscheidungen des Bundesgerichtshofs (CE-BGH) (2025-04-07) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15153244 (GitHub: https://github.com/SeanFobbe/ce-bgh)
+- Fobbe, S. (2025). Corpus der Entscheidungen des Bundespatentgerichts (CE-BPatG) (2025-07-08) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15754093 (GitHub: https://github.com/SeanFobbe/ce-bpatg)
 
 Die Erstellung erfolgt in drei Schritten:
 

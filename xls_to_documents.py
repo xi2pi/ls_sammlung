@@ -25,7 +25,7 @@ extrahiert = df["leitsatz"].notnull().sum()
 def create_word_file(dataframe, filename="output.docx"):
     document = Document()
     # Titel
-    document.add_heading("Leitsätze des BGH (X. und Xa. Senat) und des BPatG im Zeitraum 2000 bis 2024\n", level=0)
+    document.add_heading("Leitsätze des BGH (X. und Xa. Senat) und des BPatG im Zeitraum 2000 bis 2025\n", level=0)
 
     # Absatz mit Informationen
     info_paragraph = document.add_paragraph()
@@ -52,7 +52,7 @@ def create_word_file(dataframe, filename="output.docx"):
 # TXT-Datei erstellen
 def create_txt_file(dataframe, filename="output.txt"):
     with open(filename, "w", encoding="utf-8") as file:
-        file.write("Leitsätze des BGH (X. und Xa. Senat) und des BPatG im Zeitraum 2000 bis 2024\n\n")
+        file.write("Leitsätze des BGH (X. und Xa. Senat) und des BPatG im Zeitraum 2000 bis 2025\n\n")
         file.write(f"Datum: {date_today}\n")
         file.write(f"Anzahl der Entscheidungen: {extrahiert}\n\n")
         file.write("Quellen:\n")
@@ -69,7 +69,7 @@ def create_txt_file(dataframe, filename="output.txt"):
 # Markdown-Datei erstellen
 def create_md_file(dataframe, filename="output.md"):
     with open(filename, "w", encoding="utf-8") as file:
-        file.write("# Leitsätze des BGH (X. und Xa. Senat) und des BPatG im Zeitraum 2000 bis 2024\n\n")
+        file.write("# Leitsätze des BGH (X. und Xa. Senat) und des BPatG im Zeitraum 2000 bis 2025\n\n")
         file.write(f"**Datum**: {date_today}  \n")
         file.write(f"**Anzahl der Entscheidungen**: {extrahiert}  \n\n")
         file.write("## Quellen\n")
